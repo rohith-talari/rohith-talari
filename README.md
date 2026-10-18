@@ -14,9 +14,10 @@ I'm a Computer Science Engineering (AI & ML) student passionate about building i
   
 </div>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohith-talari/)
-[![Email](https://img.shields.io/badge/Email-Contact-0A101F?style=for-the-badge&logo=gmail&logoColor=10B981)](mailto:talarirohith001@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Projects-0A101F?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rohith-talari)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohith-talari/)
+[![Email](https://img.shields.io/badge/Email-0A101F?style=for-the-badge&logo=gmail&logoColor=10B981)](mailto:talarirohith001@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-0A101F?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rohith-talari)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0A101F?style=for-the-badge&logo=portfolio&logoColor=green)](https://rohithtalariportfolio.vercel.app)
 
 </div>
 
