@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1180" height="610" viewBox="0 0 1180 610" role="img" aria-labelledby="title desc">
+<title id="title">Talari Rohith — profile.sh terminal</title>
+<desc id="desc">Light terminal-style profile banner with a visual map placeholder and system information.</desc>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#F8FAFC"/><stop offset="1" stop-color="#E8EEF7"/></linearGradient>
+  <linearGradient id="panel" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#FFFFFF"/><stop offset="1" stop-color="#F1F5F9"/></linearGradient>
+  <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#0891B2"/><stop offset="1" stop-color="#7C3AED"/></linearGradient>
+  <pattern id="dots" width="12" height="12" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1" fill="#CBD5E1" opacity=".7"/></pattern>
+</defs>
+<rect x="8" y="8" width="1164" height="594" rx="24" fill="url(#bg)" stroke="#CBD5E1" stroke-width="2"/>
+<path d="M8 76H1172" stroke="#CBD5E1" stroke-width="2"/>
+<circle cx="38" cy="42" r="7" fill="#fb7185"/><circle cx="62" cy="42" r="7" fill="#fbbf24"/><circle cx="86" cy="42" r="7" fill="#34d399"/>
+<text x="590" y="49" fill="#475569" font-family="Consolas,monospace" font-size="18" text-anchor="middle">profile.sh --live</text>
+<rect x="1014" y="25" width="122" height="34" rx="17" fill="#FFE4E6" stroke="#FDA4AF"/>
+<circle cx="1034" cy="42" r="5" fill="#e11d48"/><text x="1050" y="48" fill="#9F1239" font-family="Consolas,monospace" font-size="14" font-weight="700">LIVE</text>
+<rect x="32" y="100" width="416" height="470" rx="15" fill="url(#panel)" stroke="#CBD5E1"/>
+<rect x="32" y="100" width="416" height="470" rx="15" fill="url(#dots)"/>
+<text x="58" y="136" fill="#0891B2" font-family="Consolas,monospace" font-size="15" letter-spacing="2">VISUAL.MAP</text>
+<path d="M58 153H422" stroke="#CBD5E1"/>
+<circle cx="240" cy="276" r="86" fill="none" stroke="#0891B2" stroke-opacity=".25" stroke-width="1.5"/>
+<circle cx="240" cy="276" r="67" fill="none" stroke="#7C3AED" stroke-opacity=".35" stroke-width="1.5" stroke-dasharray="4 7"/>
+<path d="M190 250 Q240 197 290 250 L282 301 Q240 332 198 301Z" fill="#0891B2" fill-opacity=".12" stroke="#0891B2" stroke-opacity=".8" stroke-width="2"/>
+<path d="M171 383 Q180 326 240 326 Q300 326 309 383" fill="#7C3AED" fill-opacity=".1" stroke="#7C3AED" stroke-opacity=".8" stroke-width="2"/>
+<text x="240" y="421" text-anchor="middle" fill="#0F172A" font-family="Consolas,monospace" font-size="19" font-weight="700">PORTRAIT MODULE</text>
+<text x="240" y="448" text-anchor="middle" fill="#64748B" font-family="Consolas,monospace" font-size="13">PHOTO-BASED DITHER PENDING</text>
+<rect x="84" y="482" width="312" height="40" rx="20" fill="#F8FAFC" stroke="#CBD5E1"/>
+<circle cx="108" cy="502" r="4" fill="#059669"/><text x="124" y="508" fill="#047857" font-family="Consolas,monospace" font-size="14">SIGNAL: STABLE</text>
+<rect x="470" y="100" width="678" height="470" rx="15" fill="url(#panel)" stroke="#CBD5E1"/>
+<text x="500" y="137" fill="#7C3AED" font-family="Consolas,monospace" font-size="15" letter-spacing="2">SYSTEM.INFO</text>
+<text x="1116" y="137" fill="#64748B" font-family="Consolas,monospace" font-size="12" text-anchor="end">BUILD 01 / PROFILE</text>
+<path d="M500 153H1118" stroke="#CBD5E1"/>
+<g font-family="Consolas,monospace" font-size="16">
+ <text x="500" y="190" fill="#64748B">SUBJECT</text><path d="M590 184H800" stroke="#CBD5E1" stroke-dasharray="2 6"/><text x="822" y="190" fill="#0F172A" font-weight="700">TALARI ROHITH</text>
+ <text x="500" y="230" fill="#64748B">ROLE</text><path d="M590 224H800" stroke="#CBD5E1" stroke-dasharray="2 6"/><text x="822" y="230" fill="#0891B2">AI / ML ENGINEERING STUDENT</text>
+ <text x="500" y="270" fill="#64748B">ORIGIN</text><path d="M590 264H800" stroke="#CBD5E1" stroke-dasharray="2 6"/><text x="822" y="270" fill="#0F172A">HYDERABAD, INDIA</text>
+ <text x="500" y="310" fill="#64748B">EDUCATION</text><path d="M605 304H800" stroke="#CBD5E1" stroke-dasharray="2 6"/><text x="822" y="310" fill="#0F172A">B.TECH CSE · AI &amp; ML</text>
+ <text x="500" y="350" fill="#64748B">STATUS</text><path d="M590 344H800" stroke="#CBD5E1" stroke-dasharray="2 6"/><text x="822" y="350" fill="#059669">BUILDING · LEARNING · SHIPPING</text>
+ <text x="500" y="390" fill="#64748B">CORE.LANG</text><path d="M605 384H800" stroke="#CBD5E1" stroke-dasharray="2 6"/><text x="822" y="390" fill="#0F172A">PYTHON · C · C++</text>
+ <text x="500" y="430" fill="#64748B">TOOLCHAIN</text><path d="M605 424H800" stroke="#CBD5E1" stroke-dasharray="2 6"/><text x="822" y="430" fill="#0F172A">GIT · VS CODE · JUPYTER</text>
+</g>
+<rect x="500" y="465" width="618" height="70" rx="10" fill="#F8FAFC" stroke="#CBD5E1"/>
+<text x="520" y="493" fill="#059669" font-family="Consolas,monospace" font-size="14">$</text>
+<text x="542" y="493" fill="#0F172A" font-family="Consolas,monospace" font-size="14">init --mode=build</text>
+<text x="520" y="517" fill="#64748B" font-family="Consolas,monospace" font-size="13">Practical projects. Reliable learning. Continuous improvement.</text>
+<rect x="32" y="582" width="1116" height="3" rx="1.5" fill="#CBD5E1"/><rect x="32" y="582" width="410" height="3" rx="1.5" fill="url(#accent)"/>
+</svg>

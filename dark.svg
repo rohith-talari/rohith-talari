@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1180" height="610" viewBox="0 0 1180 610" role="img" aria-labelledby="title desc">
+<title id="title">Talari Rohith — profile.sh terminal</title>
+<desc id="desc">Dark terminal-style profile banner with a visual map placeholder and system information.</desc>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0A101F"/><stop offset="1" stop-color="#111b30"/></linearGradient>
+  <linearGradient id="panel" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#101a2b"/><stop offset="1" stop-color="#0b1322"/></linearGradient>
+  <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#22D3EE"/><stop offset="1" stop-color="#A78BFA"/></linearGradient>
+  <pattern id="dots" width="12" height="12" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1" fill="#334155" opacity=".55"/></pattern>
+  <filter id="glow"><feGaussianBlur stdDeviation="5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+</defs>
+<rect x="8" y="8" width="1164" height="594" rx="24" fill="url(#bg)" stroke="#26364f" stroke-width="2"/>
+<path d="M8 76H1172" stroke="#26364f" stroke-width="2"/>
+<circle cx="38" cy="42" r="7" fill="#fb7185"/><circle cx="62" cy="42" r="7" fill="#fbbf24"/><circle cx="86" cy="42" r="7" fill="#34d399"/>
+<text x="590" y="49" fill="#94A3B8" font-family="Consolas,monospace" font-size="18" text-anchor="middle">profile.sh --live</text>
+<rect x="1014" y="25" width="122" height="34" rx="17" fill="#3f1725" stroke="#fb7185" stroke-opacity=".6"/>
+<circle cx="1034" cy="42" r="5" fill="#fb7185" filter="url(#glow)"/><text x="1050" y="48" fill="#fecdd3" font-family="Consolas,monospace" font-size="14" font-weight="700">LIVE</text>
+<!-- visual map panel -->
+<rect x="32" y="100" width="416" height="470" rx="15" fill="url(#panel)" stroke="#25364e"/>
+<rect x="32" y="100" width="416" height="470" rx="15" fill="url(#dots)"/>
+<text x="58" y="136" fill="#22D3EE" font-family="Consolas,monospace" font-size="15" letter-spacing="2">VISUAL.MAP</text>
+<path d="M58 153H422" stroke="#26364f"/>
+<!-- abstract portrait-like signal glyph placeholder -->
+<circle cx="240" cy="276" r="86" fill="none" stroke="#22D3EE" stroke-opacity=".22" stroke-width="1.5"/>
+<circle cx="240" cy="276" r="67" fill="none" stroke="#A78BFA" stroke-opacity=".32" stroke-width="1.5" stroke-dasharray="4 7"/>
+<path d="M190 250 Q240 197 290 250 L282 301 Q240 332 198 301Z" fill="#22D3EE" fill-opacity=".13" stroke="#22D3EE" stroke-opacity=".75" stroke-width="2"/>
+<path d="M171 383 Q180 326 240 326 Q300 326 309 383" fill="#A78BFA" fill-opacity=".13" stroke="#A78BFA" stroke-opacity=".8" stroke-width="2"/>
+<text x="240" y="421" text-anchor="middle" fill="#E2E8F0" font-family="Consolas,monospace" font-size="19" font-weight="700">PORTRAIT MODULE</text>
+<text x="240" y="448" text-anchor="middle" fill="#94A3B8" font-family="Consolas,monospace" font-size="13">PHOTO-BASED DITHER PENDING</text>
+<rect x="84" y="482" width="312" height="40" rx="20" fill="#101827" stroke="#334155"/>
+<circle cx="108" cy="502" r="4" fill="#10B981"/><text x="124" y="508" fill="#A7F3D0" font-family="Consolas,monospace" font-size="14">SIGNAL: STABLE</text>
+<!-- system panel -->
+<rect x="470" y="100" width="678" height="470" rx="15" fill="url(#panel)" stroke="#25364e"/>
+<text x="500" y="137" fill="#A78BFA" font-family="Consolas,monospace" font-size="15" letter-spacing="2">SYSTEM.INFO</text>
+<text x="1116" y="137" fill="#64748B" font-family="Consolas,monospace" font-size="12" text-anchor="end">BUILD 01 / PROFILE</text>
+<path d="M500 153H1118" stroke="#26364f"/>
+<g font-family="Consolas,monospace" font-size="16">
+ <text x="500" y="190" fill="#94A3B8">SUBJECT</text><path d="M590 184H800" stroke="#334155" stroke-dasharray="2 6"/><text x="822" y="190" fill="#F8FAFC" font-weight="700">TALARI ROHITH</text>
+ <text x="500" y="230" fill="#94A3B8">ROLE</text><path d="M590 224H800" stroke="#334155" stroke-dasharray="2 6"/><text x="822" y="230" fill="#22D3EE">AI / ML ENGINEERING STUDENT</text>
+ <text x="500" y="270" fill="#94A3B8">ORIGIN</text><path d="M590 264H800" stroke="#334155" stroke-dasharray="2 6"/><text x="822" y="270" fill="#F8FAFC">HYDERABAD, INDIA</text>
+ <text x="500" y="310" fill="#94A3B8">EDUCATION</text><path d="M605 304H800" stroke="#334155" stroke-dasharray="2 6"/><text x="822" y="310" fill="#F8FAFC">B.TECH CSE · AI &amp; ML</text>
+ <text x="500" y="350" fill="#94A3B8">STATUS</text><path d="M590 344H800" stroke="#334155" stroke-dasharray="2 6"/><text x="822" y="350" fill="#10B981">BUILDING · LEARNING · SHIPPING</text>
+ <text x="500" y="390" fill="#94A3B8">CORE.LANG</text><path d="M605 384H800" stroke="#334155" stroke-dasharray="2 6"/><text x="822" y="390" fill="#F8FAFC">PYTHON · C · C++</text>
+ <text x="500" y="430" fill="#94A3B8">TOOLCHAIN</text><path d="M605 424H800" stroke="#334155" stroke-dasharray="2 6"/><text x="822" y="430" fill="#F8FAFC">GIT · VS CODE · JUPYTER</text>
+</g>
+<rect x="500" y="465" width="618" height="70" rx="10" fill="#0A101F" stroke="#26364f"/>
+<text x="520" y="493" fill="#10B981" font-family="Consolas,monospace" font-size="14">$</text>
+<text x="542" y="493" fill="#E2E8F0" font-family="Consolas,monospace" font-size="14">init --mode=build</text>
+<text x="520" y="517" fill="#64748B" font-family="Consolas,monospace" font-size="13">Practical projects. Reliable learning. Continuous improvement.</text>
+<rect x="32" y="582" width="1116" height="3" rx="1.5" fill="#243248"/><rect x="32" y="582" width="410" height="3" rx="1.5" fill="url(#accent)"/>
+</svg>
